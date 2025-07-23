@@ -55,7 +55,7 @@ Questions like *“Which patients had CKD stage 3?”* or *“List all pneumonia
 
 ```bash
 # 1. Clone
-git clone https://github.com/your-org/askmyreport.git
+git clone https://github.com/sudheersivakumar/AskMyReport
 cd askmyreport
 
 # 2. Virtual env
